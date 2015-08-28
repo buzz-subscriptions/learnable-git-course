@@ -1,0 +1,2 @@
+#exclude the phpstorm files
+.idea
